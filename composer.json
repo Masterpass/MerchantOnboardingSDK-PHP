@@ -1,0 +1,10 @@
+{
+	"name": "masterpass/merchantonboardingsdk",
+	"version": "1.1.0",
+	"description": "Masterpass Merchant Onboarding SDK to use with Mastercard Core SDK for PHP",
+	"homepage": "https://developer.mastercard.com",
+	"require": {
+		"php": ">=5.5.0",
+		"masterpass/mpasscoresdk":"2.2.0"
+	}
+}
